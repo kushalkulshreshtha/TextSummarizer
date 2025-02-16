@@ -1,0 +1,7 @@
+[2025-02-15 18:59:00,594: INFO: main: stage Data Ingestion Stage started]
+[2025-02-15 18:59:00,595: INFO: common: yaml file: config/config.yml loaded successfully]
+[2025-02-15 18:59:00,595: INFO: common: yaml file: params.yml loaded successfully]
+[2025-02-15 18:59:00,598: INFO: common: Directory created at: {path}]
+[2025-02-15 18:59:00,598: INFO: common: Directory created at: {path}]
+[2025-02-15 18:59:01,563: INFO: data_ingestion: File downloaded]
+[2025-02-15 18:59:01,664: INFO: main: stage Data Ingestion Stage started]
