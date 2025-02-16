@@ -2,7 +2,7 @@ import os
 from src.textSummarizer.logging import logger
 import urllib.request as request
 import zipfile
-from src.textSummarizer.config.configuration import DataIngestionConfig
+from src.textSummarizer.entity import DataIngestionConfig
 
 class DataIngestion:
     def __init__(self, config: DataIngestionConfig):
